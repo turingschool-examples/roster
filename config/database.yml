@@ -1,0 +1,13 @@
+# specify which database and adapter to use for which environment
+
+development:
+  adapter: postgresql
+  database: roster-development
+
+test:
+  adapter: postgresql
+  database: roster-test
+
+production:
+  adapter: postgresql
+  database: roster-production
