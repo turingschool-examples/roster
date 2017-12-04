@@ -3,6 +3,7 @@
 
 ```
 git clone 
+cd roster
 bundle
 rake db:{create,migrate,seed}
 ```
