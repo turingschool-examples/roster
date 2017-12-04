@@ -1,4 +1,5 @@
-## Basic Sintra App for exploring advanced ActiveRecord relations
+## Basic Sintra App 
+#### Exploring advanced ActiveRecord relations
 
 ```
 git clone 
